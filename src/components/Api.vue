@@ -10,6 +10,7 @@ let evaluados = 0;
 let total = 0;
 let periodo = '';
 
+
 let porcentajes = 0;
 
 async function fetchData() {
